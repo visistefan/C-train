@@ -1,0 +1,34 @@
+// you can use includes, for example:
+// #include <algorithm>
+
+// you can write to stdout for debugging purposes, e.g.
+// cout << "this is a debug message" << endl;
+
+int solution(int N) {
+int NR[32];
+int i=0 while (n>0){
+    NR[i]=n%2;
+    n=n/2;
+i++;
+}
+for (int j=i-1;j>=0;j--)
+int a;  
+}
+
+int main{
+int N,S,count=0;
+cin<<N;
+    S=solution(int N)
+    for(int k=0;k<n;k++)
+    if(S[i]==1)
+    while{
+        i++;
+        if S[i]=0;
+count=count+1;
+i++;
+else
+i++;
+
+    }
+return 0;
+}
